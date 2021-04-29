@@ -1,0 +1,13 @@
+﻿  Generate moc_predefs.h
+  Moc'ing Widget.h...
+cl : command line warning D9002: ignoring unknown option '-std=gnu++14'
+  Widget.cpp
+cl : command line warning D9002: ignoring unknown option '-std=gnu++14'
+  main.cpp
+cl : command line warning D9002: ignoring unknown option '-std=gnu++14'
+cl : command line warning D9002: ignoring unknown option '-std=gnu++14'
+  qrc_resources.cpp
+cl : command line warning D9002: ignoring unknown option '-std=gnu++14'
+  moc_Widget.cpp
+cl : command line warning D9002: ignoring unknown option '-std=gnu++14'
+  SerialPort.vcxproj -> D:\Github\Qtesp32\Qt-esp32\SerialPort\debug\SerialPort.exe

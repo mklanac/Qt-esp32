@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/clean.png</file>
+        <file>img/blueButton.png</file>
+        <file>img/blueButtonPressed.png</file>
+        <file>img/redButton.png</file>
+        <file>img/redButtonPressed.png</file>
+        <file>img/lock.png</file>
+        <file>img/unlock.png</file>
+    </qresource>
+</RCC>

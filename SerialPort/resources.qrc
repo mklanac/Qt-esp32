@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/img/refresh.png</file>
+        <file>res/img/clean.png</file>
+        <file>res/img/play.png</file>
+    </qresource>
+</RCC>
